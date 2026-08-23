@@ -2,7 +2,7 @@
 
 # Password Toolkit
 
-A command-line Python tool that generates strong, customizable passwords and checks the strength of existing ones — with instant, specific feedback on how to improve them.
+A command-line Python tool that generates strong, customizable passwords and checks the strength of existing ones with instant, specific feedback on how to improve them.
 
 ## Features
 
